@@ -8,7 +8,7 @@ This program calculates the price of a *x*-year American-style (put or call) opt
 1. **Inputs:** *x* (year), *y* (year), *r* (%) (initial short rate), *betta* (%) and *mu* (%), *sigma* (%) and number of partitions during the option's life *n*, and strike price *X* (% of par).
 2. **Output:** Price of the put or the call.
 
-## NOTES
+## Notes
 
 The folder *Main* includes two files:
 1.	*American_zero_coupon_put.m*
