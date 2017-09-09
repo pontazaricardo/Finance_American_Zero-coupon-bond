@@ -2,7 +2,7 @@
 
 This program calculates the price of a *x*-year American-style (put or call) option on a zero-coupon bond that matures at year *y* with a par value of 1 dollar.
 
-![demo](/images/call-gif.gif)
+![demo](/images/call/call-gif.gif)
 
 ## INPUTS AND OUTPUTS
 1. **Inputs:** *x* (year), *y* (year), *r* (%) (initial short rate), *betta* (%) and *mu* (%), *sigma* (%) and number of partitions during the option's life *n*, and strike price *X* (% of par).
