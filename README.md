@@ -19,5 +19,5 @@ Run the one you need for calculating a put or call price.
 ## Usage
 In MatLab, just run the given files.
 
-## EXAMPLE
+## Example
 Suppose *x* = 1, *y* = 2, *r* = 4 (%), *betta* = 20 (%), *mu* = 4 (%), *sigma* = 10 (%), *n* = 30 and *X* = 90 (%). The price of a call is 5.87267 and for the put is 0.0167024.
