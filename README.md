@@ -6,7 +6,7 @@ This program calculates the price of a *x*-year American-style (put or call) opt
 
 ## Inputs and outputs
 1. **Inputs:** *x* (year), *y* (year), *r* (%) (initial short rate), *betta* (%) and *mu* (%), *sigma* (%) and number of partitions during the option's life *n*, and strike price *X* (% of par).
-2. **Output:** Price of the put or the call.
+2. **Output:** Price of the put or the call (depending on the selected file).
 
 ## Notes
 
