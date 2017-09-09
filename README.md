@@ -16,7 +16,7 @@ The folder *Main* includes two files:
 
 Run the one you need for calculating a put or call price.
 
-## USAGE
+## Usage
 In MatLab, just run the given files.
 
 ## EXAMPLE
