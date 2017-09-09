@@ -14,9 +14,9 @@ The folder *Main* includes two files:
 1.	*American_zero_coupon_put.m*
 2.	*American_zero_coupon_call.m*
 
-Run the one you need for calculating a put or call price.
+Just run the file you need for calculating a put or call price.
 
-## Usage
+## Execution
 In MatLab, just run the given files.
 
 ## Example
