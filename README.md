@@ -1,6 +1,6 @@
 # Finance_American_Zero-coupon-bond
 
-This program calculates the price of a *x*-year American-style (put or call) option on a zero-coupon bond that matures at year *y* with a par value of 1 dollar.
+This program calculates the price of a *x*-year American-style (put or call) option on a zero-coupon bond that matures at year *y* with a par value of 1 dollar. There are two files, one for calculating the put and the second one for the call.
 
 ![demo](/images/call/call-gif.gif)
 
